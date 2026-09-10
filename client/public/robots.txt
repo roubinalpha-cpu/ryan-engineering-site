@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryan-sa.com/sitemap.xml
